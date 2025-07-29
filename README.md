@@ -3,7 +3,7 @@ Welcome to the ElevateLabs repository! This repo contains two main projects:
 
 - **Movie Recommendation System**
 - **Resume Ranking System**
-- 
+  
 ## Projects Overview
 
 ### 1. Movie Recommendation System
